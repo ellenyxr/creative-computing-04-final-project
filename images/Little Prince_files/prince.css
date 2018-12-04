@@ -1,0 +1,289 @@
+@import url('http://fonts.googleapis.com/css?family=Amatic+SC');
+
+img#one{
+	position: absolute;
+	margin-top: 50px;
+}
+
+img#two{
+	position: absolute;
+	margin-top: 717px;
+	margin-left: 300px;
+}
+
+img#three{
+	position: absolute;
+	margin-top: 100px;
+	margin-left: 400px;
+}
+
+img#four{
+	position: absolute;
+	margin-top: 640px;
+	margin-left: 800px;
+}
+
+img#five{
+	position: absolute;
+	margin-top: 300px;
+	margin-left: 550px;
+}
+
+img#six{
+	position: absolute;
+	margin-left: 800px;
+}
+
+img#seven{
+	position: absolute;
+	margin-left: 1280px;
+	margin-top: 300px;
+}
+
+p{
+	font-family:'Amatic SC',cursive;
+	position: absolute;
+	font-size: 50px;
+	letter-spacing: 3px;
+}
+
+img#one_img{
+	position: absolute;
+	margin-left: 1150px;
+	width: 300px;
+	margin-top: 250px;
+}
+
+img#flower{
+	position: absolute;
+	margin-right:500px;
+	margin-top:10px;
+
+
+}
+img#star{
+
+	width:2500px;
+    height:3500px;
+}
+img#garden{
+    position:absolute;
+	margin-top:10px;
+	margin-left:100px;
+
+}
+
+img#water{
+	position: absolute;
+	margin-left:1500px;
+	margin-top:300px;
+
+}
+
+img#tippler{
+	position: absolute;
+	margin-left:200px;
+	margin-top:400px;
+	width:1000px;
+	height:500px;
+
+}
+
+img#cry{
+
+	position: absolute;
+	margin-left:20px;
+	margin-top:700px;
+	width:1050px;
+	height:400px;
+}
+
+img#fox{
+
+	position: absolute;
+	margin-left:2000px;
+	margin-top:700px;
+	width:1050px;
+	height:400px;
+
+}
+
+img#foxgif{
+	position: absolute;
+	margin-left:20px;
+	margin-top:70px;
+
+
+}
+
+img#foxgif2{
+	position: absolute;
+	margin-left:700px;
+	margin-top:70px;
+
+}
+
+img#foxgif3{
+	position: absolute;
+	margin-left:1400px;
+	margin-top:70px;
+
+}
+
+h1{
+	font-family:'Amatic SC',cursive;
+	font-size: 50px;
+	letter-spacing: 3px;
+	margin-left: 500px;
+	margin-top: 200px;
+	position:absolute;
+}
+
+p#next{
+	position:absolute;
+}
+
+p#flower{
+	position:absolute;
+	font-size:30px;
+	margin-top:200px;
+	padding:200px;
+	margin-left:500px;
+}
+
+p#flower2{
+
+	position:absolute;
+	font-size:25px;
+	margin-top:2000px;
+	padding:200px;
+	margin-left:500px;
+
+}
+
+p#flower3{
+	position:absolute;
+	font-size:25px;
+	margin-top:2450px;
+	padding:200px;
+	margin-right:500px;
+
+}
+
+p#flower4{
+
+	position:absolute;
+	font-size:25px;
+	margin-top:2600px;
+	padding:500px;
+	margin-left:90px;
+
+}
+
+
+
+p#slide{
+	position:absolute;
+	margin-top:700px;
+
+}
+
+p#conversation{
+	font-size:25px;
+	position:absolute;
+	margin-top:700px;
+	margin-left:1400px;
+
+}
+p#newplanetflower{
+	position:absolute;
+	margin-top:800px;
+	margin-left:1400px;
+	font-size:25px;
+
+
+}
+
+p#slidedown{
+    position:absolute;
+    font-size:40px;
+    margin-top:100px;
+    margin-left:500px;
+
+
+
+}
+
+p#clickhere{
+
+	position:absolute;
+    font-size:20px;
+    margin-top:3400px;
+    margin-left:1000px;
+    padding:10px;
+}
+
+p#cry{
+
+    position:absolute;
+    font-size:25px;
+    margin-top:500px;
+    margin-left:500px;
+    padding:10px;
+
+}
+
+p#tame{
+	position:absolute;
+    font-size:20px;
+    margin-top:400px;
+    margin-left:2000px;
+    padding:20px;
+    
+}
+
+
+p#king{
+	position: absolute;
+	font-size: 30px;
+	margin-top: 150px;
+}
+
+p#tippler{
+	font-family:'Amatic SC',cursive;
+	font-size: 30px;
+	position: absolute;
+	margin-top: 150px;
+	margin-left:600px;
+
+}
+
+p#tipplernext{
+	font-size: 50px;
+	position: absolute;
+	margin-top: 200px;
+	margin-left:100px;
+
+}
+p#instruction{
+	font-size: 30px;
+	position: absolute;
+	margin-top: 200px;
+	margin-left:600px;
+
+
+}
+
+body#cry{
+	background-color:#f7c000;
+
+}
+
+
+
+audio{
+	display:none
+}
+
+
+
